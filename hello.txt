@@ -1,0 +1,2 @@
+This file was uploaded as part of my GitHub version control assignment.  
+I used Git and Git Bash to create, commit, and push this file to my GitHub repository.
